@@ -10,7 +10,7 @@ I am a passionate and detail-oriented B.Tech student specializing in **Artificia
 
 * **B.Tech in Artificial Intelligence & Machine Learning**
 
-  * SUIET | 2022–2026 | **8.95 CGPA**
+  * SUIET | 2022–2026 | **9.03 CGPA**
 * **Pre-University: PCMB**
 
   * Sharadha College | 2022 | 70.83%
